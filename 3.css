@@ -1,0 +1,87 @@
+.header{
+    background-color: black;
+    color: white;
+    margin-top: -10px;
+    margin-left: -20px;
+    margin-right: -10px;
+    }
+    .he{
+        text-align: center;
+        color: white;
+        font-size: 30px;
+        font-family: 'Quicksand', sans-serif;
+    }
+    .he1{margin-top: -10px;
+        text-align: center;
+        color: white;
+        font-size: 60px;
+        font-family: 'Quicksand', sans-serif;
+    
+    }
+.img{
+    border-radius: 10px;
+    float: left;
+    width: 400px;
+    margin-right: 40px;
+    margin-left: 180px;
+}
+.para{
+    color: white;
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+margin-right: 30px;
+}
+
+
+    *{
+        overflow-x: hidden;
+    }
+    .h1{
+       /* font-family: 'Cinzel', serif;*/
+        margin-left: 30px;
+       /* font-family: 'Julius Sans One', sans-serif;*/
+        font-family: 'Quicksand', sans-serif;
+       /* font-family: 'Poiret One', cursive;*/
+    }
+    .lin{
+        text-decoration: none;
+        color: white;
+    }
+    .lko{
+        font-size: 20px;
+    }
+    
+    body {position: relative;
+        
+        background-image: url('1.jpg');
+        background-repeat: no-repeat;
+      background-size: 3000px 900px;
+      }
+
+
+      .button {
+        margin-left: 300px;
+        display: inline-block;
+        padding: 15px 25px;
+        font-size: 24px;
+        cursor: pointer;
+        text-align: center;
+        text-decoration: none;
+        outline: none;
+        color: #fff;
+        background-color: blueviolet;
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 9px #999;
+      }
+      
+      .button:active {
+        background-color:blueviolet;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+      }
+
+      .lin{
+        text-decoration: none;
+        color: white;
+    }

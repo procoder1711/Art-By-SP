@@ -1,0 +1,48 @@
+.header{
+background-color: black;
+color: white;
+margin-top: -10px;
+margin-left: -20px;
+margin-right: -10px;
+}
+.he{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family: 'Quicksand', sans-serif;
+}
+.he1{margin-top: -20px;
+    text-align: center;
+    color: white;
+    font-size: 90px;
+    font-family: 'Quicksand', sans-serif;
+    transition: transform .2s; /* Animation */
+
+}
+.he1:hover {
+    transform: scale(1.5); 
+  }
+*{
+    overflow-x: hidden;
+}
+.h1{
+   /* font-family: 'Cinzel', serif;*/
+    margin-left: 30px;
+   /* font-family: 'Julius Sans One', sans-serif;*/
+    font-family: 'Quicksand', sans-serif;
+   /* font-family: 'Poiret One', cursive;*/
+}
+.lin{
+    text-decoration: none;
+    color: white;
+}
+.lko{
+    font-size: 20px;
+}
+
+body {position: relative;
+    
+    background-image: url('1.jpg');
+    background-repeat: no-repeat;
+  background-size: 3000px 900px;
+  }
